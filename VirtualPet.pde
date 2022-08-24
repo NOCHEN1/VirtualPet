@@ -1,6 +1,11 @@
 
 void setup(){
-  size(400, 400);
+  //a
+}
+void draw(){
+  //more of your code here
+}
+size(400, 400);
 background(0 , 150, 255);
 fill(0 ,255, 0);
 ellipse(120 ,250 ,80, 20);
@@ -26,8 +31,5 @@ ellipse(160 ,210 ,40, 80);
 ellipse(150 ,250 ,40, 20);
 ellipse(250 ,250 ,40, 20);
 arc(200, 110, 50, 20, 0 , PI);
-}
-void draw(){
-  //more of your code here
-}
+
 
